@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/rickandmorty-app/static/css/main.8e9f8467.chunk.css",
+    "main.js": "/rickandmorty-app/static/js/main.cc84a6ff.chunk.js",
+    "main.js.map": "/rickandmorty-app/static/js/main.cc84a6ff.chunk.js.map",
+    "runtime-main.js": "/rickandmorty-app/static/js/runtime-main.b148b478.js",
+    "runtime-main.js.map": "/rickandmorty-app/static/js/runtime-main.b148b478.js.map",
+    "static/css/2.d0176e96.chunk.css": "/rickandmorty-app/static/css/2.d0176e96.chunk.css",
+    "static/js/2.8a6a02f3.chunk.js": "/rickandmorty-app/static/js/2.8a6a02f3.chunk.js",
+    "static/js/2.8a6a02f3.chunk.js.map": "/rickandmorty-app/static/js/2.8a6a02f3.chunk.js.map",
+    "index.html": "/rickandmorty-app/index.html",
+    "precache-manifest.e8f9e40773d062731ea4d6e75a1fc828.js": "/rickandmorty-app/precache-manifest.e8f9e40773d062731ea4d6e75a1fc828.js",
+    "service-worker.js": "/rickandmorty-app/service-worker.js",
+    "static/css/2.d0176e96.chunk.css.map": "/rickandmorty-app/static/css/2.d0176e96.chunk.css.map",
+    "static/css/main.8e9f8467.chunk.css.map": "/rickandmorty-app/static/css/main.8e9f8467.chunk.css.map",
+    "static/js/2.8a6a02f3.chunk.js.LICENSE.txt": "/rickandmorty-app/static/js/2.8a6a02f3.chunk.js.LICENSE.txt",
+    "static/js/main.cc84a6ff.chunk.js.LICENSE.txt": "/rickandmorty-app/static/js/main.cc84a6ff.chunk.js.LICENSE.txt",
+    "static/media/app.jpg": "/rickandmorty-app/static/media/app.e10e0b73.jpg",
+    "static/media/logo7.png": "/rickandmorty-app/static/media/logo7.700ea584.png",
+    "static/media/marc.jpg": "/rickandmorty-app/static/media/marc.8880a65c.jpg",
+    "static/media/one.jpg": "/rickandmorty-app/static/media/one.eddf5d2d.jpg",
+    "static/media/sidebar-1.jpg": "/rickandmorty-app/static/media/sidebar-1.8e9f0a3c.jpg",
+    "static/media/sidebar-2.jpg": "/rickandmorty-app/static/media/sidebar-2.310509c9.jpg",
+    "static/media/sidebar-3.jpg": "/rickandmorty-app/static/media/sidebar-3.25031690.jpg",
+    "static/media/sidebar-4.jpg": "/rickandmorty-app/static/media/sidebar-4.fc9cb053.jpg",
+    "static/media/two.jpg": "/rickandmorty-app/static/media/two.c37086a4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b148b478.js",
+    "static/css/2.d0176e96.chunk.css",
+    "static/js/2.8a6a02f3.chunk.js",
+    "static/css/main.8e9f8467.chunk.css",
+    "static/js/main.cc84a6ff.chunk.js"
+  ]
+}
